@@ -15,7 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-![1119wj's GitHub stats](https://github-readme-stats.vercel.app/api?username=1119wj&show_icons=true&theme=tokyonight)  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=1119wj)](https://solved.ac/1119wj)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1119wj&layout=compact&theme=merko)
+  <img src="https://github-readme-stats.vercel.app/api?username=1119wj&show_icons=true&theme=tokyonight" alt="1119wj's GitHub stats" />  
+  <br>
+  <a href="https://solved.ac/1119wj">
+    <img src="http://mazassumnida.wtf/api/generate_badge?boj=1119wj" alt="Solved.ac Profile" />
+  </a>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1119wj&layout=compact&theme=merko" alt="Top Langs" />
 </div>
